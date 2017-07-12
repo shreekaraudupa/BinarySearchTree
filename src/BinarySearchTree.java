@@ -41,7 +41,7 @@ class BinarySearchTree {
             tree.inOrder();
             tree.preOrder();
             tree.postOrder();
-            tree.levelorder();
+            //tree.levelorder();
 
 
             System.out.println();
